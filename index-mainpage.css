@@ -1,0 +1,1194 @@
+.home-page-light-child {
+  position: absolute;
+  top: 3021px;
+  left: -14px;
+  background-color: var(--color-firebrick-300);
+  width: 1500px;
+  height: 493px;
+}
+.our-reative-team {
+  position: absolute;
+  top: 2783px;
+  left: 139px;
+  width: 1170px;
+}
+.icbaseline-email-icon {
+  position: absolute;
+  height: 100%;
+  width: 12.83%;
+  top: 0;
+  right: 87.17%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vkellogsgmailcom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.email,
+.iconsfillphone-fill,
+.vkellogsgmailcom-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 82.89%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 17.11%;
+}
+.email,
+.iconsfillphone-fill {
+  width: 50.13%;
+  right: 49.87%;
+  left: 0;
+}
+.iconsfillphone-fill {
+  height: 75%;
+  width: 12.24%;
+  top: 12.5%;
+  right: 87.76%;
+  bottom: 12.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.call,
+.menu,
+.wrapper {
+  position: absolute;
+  height: 100%;
+  width: 75.51%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 24.49%;
+}
+.call,
+.menu {
+  width: 39.41%;
+  left: 60.59%;
+}
+.menu {
+  height: 21.05%;
+  width: 31.88%;
+  right: 67.86%;
+  bottom: 78.95%;
+  left: 0.26%;
+}
+.menu-child,
+.menu1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.menu-child {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  box-shadow: var(--effect-1);
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.home {
+  left: 0;
+  text-decoration: underline;
+  line-height: 130%;
+  color: var(--color-firebrick-100);
+}
+
+.menu1 {
+  height: 66.67%;
+  top: 16.67%;
+  bottom: 16.67%;
+}
+.about-us,
+.contact-us,
+.home {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.about-us,
+.contact-us {
+  line-height: 30px;
+}
+.contact-us {
+  left: 67.34%;
+  cursor: pointer;
+}
+.about-us {
+  left: 25.88%;
+  color: black;
+  text-decoration: none;
+}
+.home-parent {
+  position: absolute;
+  height: 33.33%;
+  width: 35.76%;
+  top: 35.56%;
+  right: 64.24%;
+  bottom: 31.11%;
+  left: 0;
+}
+.product,
+.recipes {
+  position: absolute;
+  top: 24%;
+  left: 0;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+}
+.recipes {
+  left: 35.47%;
+}
+.download-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-firebrick-200);
+}
+.shop-here {
+  position: absolute;
+  top: 24%;
+  left: 12.66%;
+  text-decoration: underline;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: inherit;
+}
+.download,
+.download-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.download-wrapper {
+  width: 36.16%;
+  left: 63.84%;
+  color: var(--white);
+}
+.product-parent {
+  position: absolute;
+  height: 55.56%;
+  width: 39.26%;
+  top: 22.22%;
+  right: 0;
+  bottom: 22.22%;
+  left: 60.74%;
+}
+.vkellogs {
+  position: absolute;
+  top: 42.22%;
+  left: 31%;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.image-1-icon {
+  position: absolute;
+  height: 62.22%;
+  width: 31%;
+  top: 11.11%;
+  right: 58%;
+  bottom: 26.67%;
+  left: 11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 100%;
+  width: 17.97%;
+  top: 0;
+  right: 43.13%;
+  bottom: 0;
+  left: 38.9%;
+  color: var(--color-black);
+}
+.group-parent,
+.menu-group {
+  position: absolute;
+  height: 100%;
+  width: 95.13%;
+  top: 0;
+  right: 0.43%;
+  bottom: 0;
+  left: 4.44%;
+}
+.menu-group {
+  height: 78.95%;
+  width: 100%;
+  top: 21.05%;
+  right: 0;
+  left: 0;
+  font-size: var(--h6-20-size);
+  color: var(--black);
+}
+.group-item {
+  position: absolute;
+  height: 19.3%;
+  width: 13.85%;
+  top: 0.88%;
+  right: 0.6%;
+  bottom: 79.82%;
+  left: 85.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-parent {
+  position: absolute;
+  height: 100%;
+  width: 99.91%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0.09%;
+}
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1171px;
+  height: 114px;
+}
+.hero-saction-inner,
+.kelloggs-is-an {
+  position: absolute;
+  font-size: var(--h7-16px-paragraph-text-size);
+}
+.hero-saction-inner {
+  top: 35px;
+  left: 135px;
+  width: 1171px;
+  height: 114px;
+  color: var(--white);
+}
+.kelloggs-is-an {
+  top: 267px;
+  left: calc(50% - 511.5px);
+  line-height: 24px;
+  color: var(--gray-paragraph);
+  text-align: center;
+  display: inline-block;
+  width: 1061px;
+  height: 70px;
+}
+.creative-design-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: var(--effect-1);
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 570px;
+  height: 160px;
+}
+.iconsfillsystemcheckbox-cir {
+  position: absolute;
+  top: 30px;
+  left: 18px;
+  width: 24px;
+  height: 24px;
+}
+.helps-kids-be {
+  position: absolute;
+  top: 30px;
+  left: 59px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.learn-how-we {
+  position: absolute;
+  top: 61px;
+  left: 59px;
+  font-size: var(--h7-16px-paragraph-text-size);
+  line-height: 24px;
+  color: var(--gray-paragraph);
+  display: inline-block;
+  width: 491px;
+  height: 67px;
+}
+.creative-design {
+  position: absolute;
+  top: 415px;
+  left: 742px;
+  width: 570px;
+  height: 160px;
+}
+.make-eating-well {
+  position: absolute;
+  top: 30px;
+  left: 60px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.learn-how-we1 {
+  position: absolute;
+  top: 63px;
+  left: 59px;
+  font-size: var(--h7-16px-paragraph-text-size);
+  line-height: 24px;
+  color: var(--gray-paragraph);
+  display: inline-block;
+  width: 491px;
+  height: 67px;
+}
+.best-user-experince,
+.easy-to-use,
+.image-1-icon1 {
+  position: absolute;
+  top: 615px;
+  left: 742px;
+  width: 570px;
+  height: 160px;
+}
+.best-user-experince,
+.image-1-icon1 {
+  top: 815px;
+}
+.image-1-icon1 {
+  top: 407px;
+  left: 170px;
+  width: 536px;
+  height: 542px;
+  object-fit: cover;
+}
+.about-child,
+.hero-saction {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.about-child {
+  top: -130px;
+  left: -156px;
+  width: 1470px;
+  height: 904px;
+  object-fit: cover;
+}
+.our-best-recipes,
+.try-and-eat {
+  position: absolute;
+  color: var(--color-black);
+}
+.our-best-recipes {
+  top: -46px;
+  left: calc(50% - 469px);
+  font-size: 96px;
+  line-height: 47.25px;
+  text-transform: uppercase;
+  text-align: left;
+}
+.try-and-eat {
+  top: 63px;
+  left: calc(50% - 566px);
+  font-size: var(--font-size-29xl);
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 1124px;
+  height: 70px;
+}
+.about-item {
+  position: absolute;
+  top: 133px;
+  left: -5px;
+  box-shadow: var(--effect-1);
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 370px;
+  height: 580px;
+}
+.team-member-1-icon,
+.team-member-3-child {
+  position: absolute;
+  top: 89px;
+  left: 0;
+  width: 221px;
+  height: 220px;
+}
+.team-member-3-child {
+  top: 0;
+  box-shadow: var(--effect-1);
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 370px;
+  height: 580px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 63px;
+  width: 220px;
+  height: 220px;
+}
+.afterschool-muffins {
+  position: absolute;
+  top: 239px;
+  left: 21px;
+  font-size: var(--font-size-5xl);
+  text-decoration: underline;
+  line-height: 47.25px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--color-firebrick-300);
+}
+.min-12,
+.serve-these-muffins {
+  position: absolute;
+  line-height: 24px;
+}
+.serve-these-muffins {
+  top: 300px;
+  left: 0;
+  display: inline-block;
+  width: 326px;
+  height: 61px;
+}
+.min-12 {
+  top: 0;
+  left: 25px;
+}
+.group-icon {
+  position: absolute;
+  height: 83.33%;
+  width: 10.15%;
+  top: 8.33%;
+  right: 89.85%;
+  bottom: 8.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-container,
+.min-12-servings-parent {
+  position: absolute;
+  top: 402px;
+  left: 65px;
+  width: 197px;
+  height: 24px;
+}
+.group-container {
+  top: 88px;
+  left: 22px;
+  width: 326px;
+  height: 426px;
+}
+.team-member,
+.team-member-3 {
+  position: absolute;
+  top: 0;
+  left: 714px;
+  width: 370px;
+  height: 580px;
+}
+.team-member {
+  top: 133px;
+  left: 69px;
+  width: 1084px;
+}
+.about-inner,
+.image-27-icon {
+  position: absolute;
+  top: 233px;
+  height: 198px;
+}
+.about-inner {
+  left: 81px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 198px;
+}
+.image-27-icon {
+  left: 78px;
+  width: 205px;
+  object-fit: cover;
+}
+.apple-coffee-cake {
+  position: absolute;
+  top: 454px;
+  left: calc(50% - 523px);
+  font-size: var(--font-size-5xl);
+  text-decoration: underline;
+  line-height: 47.25px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--color-firebrick-300);
+}
+.min-16-servings-parent {
+  position: absolute;
+  top: 623px;
+  left: 94px;
+  width: 197px;
+  height: 24px;
+}
+.this-cheerful-home-style {
+  position: absolute;
+  top: 511px;
+  left: 6px;
+  line-height: 24px;
+  display: inline-block;
+  width: 341px;
+  height: 104px;
+}
+.image-29-icon {
+  position: absolute;
+  top: 230px;
+  left: 879px;
+  width: 198px;
+  height: 198px;
+  object-fit: cover;
+}
+.group-child1,
+.team-member-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 580px;
+}
+.group-child1 {
+  left: 52px;
+  width: 220px;
+  height: 220px;
+}
+.ginger-garlic-and {
+  position: absolute;
+  top: 289px;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  width: 326px;
+  height: 61px;
+}
+.group-parent1,
+.min-4 {
+  position: absolute;
+  top: 0;
+}
+.group-parent1 {
+  left: 16px;
+  width: 326px;
+  height: 350px;
+}
+.min-4 {
+  left: 27px;
+  line-height: 24px;
+}
+.group-icon2 {
+  position: absolute;
+  height: 83.33%;
+  width: 10.26%;
+  top: 8.33%;
+  right: 89.74%;
+  bottom: 8.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.min-4-servings-parent {
+  position: absolute;
+  top: 401px;
+  left: 80px;
+  width: 195px;
+  height: 24px;
+}
+.asian-chicken-tenders {
+  position: absolute;
+  top: 231px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  text-decoration: underline;
+  line-height: 47.25px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #ab1e28;
+  display: inline-block;
+  width: 347px;
+  height: 47px;
+}
+.group-div {
+  position: absolute;
+  top: 89px;
+  left: 7px;
+  width: 347px;
+  height: 425px;
+}
+.about,
+.team-member-2-parent {
+  position: absolute;
+  top: 133px;
+  left: 383px;
+  width: 370px;
+  height: 580px;
+}
+.about {
+  top: 1144px;
+  left: 161px;
+  width: 1144px;
+  height: 774px;
+  text-align: center;
+  font-size: var(--h7-16px-paragraph-text-size);
+  color: var(--gray-paragraph);
+}
+.about-vkellogs {
+  position: absolute;
+  top: 202px;
+  left: calc(50% - 224px);
+  font-size: var(--font-size-29xl);
+  line-height: 47.25px;
+  text-transform: uppercase;
+  color: var(--color-firebrick-100);
+}
+.how-to-use-the-appp-perfectly {
+  position: absolute;
+  top: 1975px;
+  left: calc(50% - 720px);
+  width: 1448px;
+  height: 682px;
+}
+.recent-products {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 351px);
+  font-size: 70px;
+  line-height: 47.25px;
+  text-transform: uppercase;
+}
+.our-foods-brightens {
+  position: absolute;
+  top: 96px;
+  left: calc(50% - 471px);
+  font-size: var(--font-size-29xl);
+  line-height: 24px;
+  font-family: var(--font-lobster-two);
+  text-align: center;
+  display: inline-block;
+  width: 941px;
+  height: 70px;
+}
+.blog-post-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: var(--effect-1);
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 370px;
+  height: 500px;
+}
+.delicious-frosted-flakes,
+.kelloggs-frosted-flakes {
+  position: absolute;
+  left: 18px;
+  display: inline-block;
+  width: 334px;
+}
+.kelloggs-frosted-flakes {
+  top: 268px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.delicious-frosted-flakes {
+  top: 338px;
+  font-size: var(--h7-16px-paragraph-text-size);
+  line-height: 24px;
+  color: var(--gray-paragraph);
+  height: 72px;
+}
+.read-more {
+  position: absolute;
+  top: 438px;
+  left: 18px;
+  text-decoration: underline;
+  line-height: 130%;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-darkred);
+}
+.blog-post-1,
+.image-26-icon,
+.image-icon {
+  position: absolute;
+  top: 201px;
+  left: 0;
+  width: 370px;
+}
+.blog-post-1 {
+  height: 500px;
+  color: var(--black);
+}
+.image-26-icon,
+.image-icon {
+  border-radius: var(--br-3xs);
+  height: 242px;
+  object-fit: cover;
+}
+.image-icon {
+  top: 0;
+  left: 1px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+}
+.dig-into-vibrant {
+  position: absolute;
+  top: 338px;
+  left: 18px;
+  font-size: var(--h7-16px-paragraph-text-size);
+  line-height: 24px;
+  display: inline-block;
+  width: 334px;
+  height: 70px;
+}
+.blog-post-2-item {
+  position: absolute;
+  top: 242px;
+  left: 0;
+  background-color: var(--white);
+  width: 370px;
+  height: 92px;
+}
+.kelloggs-froot-loops {
+  position: absolute;
+  top: 268px;
+  left: 18px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--black);
+  display: inline-block;
+  width: 334px;
+}
+.blog-post-2 {
+  position: absolute;
+  top: 201px;
+  left: 400px;
+  width: 371px;
+  height: 500px;
+  color: var(--gray-paragraph);
+}
+.image-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 370px;
+  height: 242px;
+  object-fit: cover;
+}
+.this-crunchy-and {
+  position: absolute;
+  top: 339px;
+  left: 18px;
+  font-size: var(--h7-16px-paragraph-text-size);
+  line-height: 24px;
+  color: var(--gray-paragraph);
+  display: inline-block;
+  width: 334px;
+  height: 70px;
+}
+.blog-post-3,
+.our-recent-blog {
+  position: absolute;
+  top: 201px;
+  left: 800px;
+  width: 370px;
+  height: 500px;
+  color: var(--black);
+}
+.our-recent-blog {
+  top: 2034px;
+  left: 121px;
+  width: 1170px;
+  height: 701px;
+  color: var(--color-black);
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-firebrick-300);
+  width: 1500px;
+  height: 376px;
+}
+.let-them-eat,
+.vkellogs1 {
+  position: absolute;
+  font-weight: 600;
+}
+
+button{
+  color: #ac1e28;
+  background-color: #ab1e28;
+}
+
+.let-them-eat {
+  top: 59px;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  width: 334px;
+  height: 72px;
+}
+.vkellogs1 {
+  top: 28px;
+  left: 40px;
+  text-transform: uppercase;
+}
+.image-1-icon2,
+.vkellogs-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 56px;
+}
+.image-1-icon2 {
+  width: 62px;
+  object-fit: cover;
+}
+.vkellogs-parent {
+  width: 155px;
+  font-size: var(--h6-20-size);
+}
+.about1,
+.social-icon {
+  position: absolute;
+  top: 169px;
+  left: 0;
+  width: 276px;
+  height: 24px;
+}
+.about1 {
+  top: 59px;
+  left: 135px;
+  width: 334px;
+  height: 193px;
+}
+.quick-link1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--h5-25-size);
+  line-height: 37.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.contacts{
+  color: inherit;
+  text-decoration: none;
+  margin-right: 20px; /* Adjust this value to move the text further left or right */
+  padding-right: 10px; /* Additional padding if needed */
+  position: relative;
+  top: 160px;
+  left: 0;
+  
+}
+
+.contact-us-wrapper{
+  color: inherit;
+  text-decoration: none;
+  top: 200px;
+}
+
+
+.product,
+.recipes,
+.contact-us{
+  text-decoration: none;
+  color:inherit;
+}
+.about-us1,
+.contact-us1,
+.products,
+.recipes1 {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  line-height: 24px;
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+.about-us1,
+.contact-us1,
+.recipes1 {
+  top: 49px;
+}
+.contact-us1,
+.recipes1 {
+  top: 121px;
+}
+.quick-link {
+  position: relative;
+  top: 69px;
+  left: 535px;
+  width: 154px;
+  height: 181px;
+}
+.subscribe-our-newsletter {
+  margin: 0;
+}
+.subscribe-our-newsletter-container {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  line-height: 24px;
+}
+.email-send-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--white);
+  width: 369px;
+  height: 50px;
+}
+.your-email-address {
+  position: absolute;
+  top: 13px;
+  left: 18px;
+  line-height: 24px;
+  border: none;
+  font-size: 12px;
+  color: #ac1e28;
+}
+.email-send-item {
+  position: absolute;
+  top: 2px;
+  left: 315px;
+  border-radius: var(--br-9xs);
+  background-color: #ac1e28;
+  width: 52px;
+  height: 46px;
+}
+.email-send,
+.iconsfillbusinesssend-plane {
+  position: absolute;
+  top: 13px;
+  left: 329px;
+  width: 24px;
+  height: 24px;
+  border: none;
+}
+.email-send {
+  top: 130px;
+  left: 0;
+  width: 369px;
+  height: 50px;
+  color: var(--gray-paragraph);
+}
+.line-3-stroke,
+.news-letter {
+  position: absolute;
+  top: 69px;
+  left: 935px;
+  width: 369px;
+  height: 180px;
+}
+.line-3-stroke {
+  top: 315.5px;
+  left: 135px;
+  width: 1167px;
+  height: 1px;
+}
+.iconscopyright-line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.copyright-2024 {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  line-height: 24px;
+}
+.copyright,
+.rectangle-group {
+  position: absolute;
+  top: 334px;
+  left: 423px;
+  width: 595px;
+  height: 24px;
+}
+.rectangle-group {
+  top: 3149px;
+  left: -14px;
+  width: 1454px;
+  height: 376px;
+  font-size: var(--h7-16px-paragraph-text-size);
+  color: var(--white);
+}
+.background-image,
+.background-image-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1170px;
+  height: 230px;
+}
+.background-image-child {
+  border-radius: 30px;
+  background-color: var(--white);
+}
+.background-image {
+  box-shadow: var(--effect-2);
+}
+.vkellogsyouremailcom {
+  position: absolute;
+  top: 38px;
+  left: 118px;
+  line-height: 37.5px;
+  text-transform: lowercase;
+  font-weight: 600;
+}
+.email-icon,
+.email1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+.email1 {
+  top: 65px;
+  left: 50px;
+  width: 399px;
+}
+.contact-us-child {
+  position: absolute;
+  top: 55px;
+  left: 583px;
+  border-right: 4px solid var(--gray-paragraph);
+  box-sizing: border-box;
+  width: 4px;
+  height: 121px;
+}
+.div1 {
+  position: absolute;
+  top: 38px;
+  left: 118px;
+  line-height: 37.5px;
+  font-weight: 600;
+}
+.call1,
+.contact-us2 {
+  position: absolute;
+  top: 65px;
+  left: 635px;
+  width: 292px;
+  height: 100px;
+}
+.contact-us2 {
+  top: 2906px;
+  left: 139px;
+  width: 1170px;
+  height: 230px;
+  font-size: var(--h5-25-size);
+}
+.home-page-light {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 1490px;
+  height: 3400px;
+  overflow-y: auto;
+}
+.min-161 {
+  position: absolute;
+  top: 2.71px;
+  left: 25px;
+  line-height: 24px;
+}
+.group-icon3 {
+  position: absolute;
+  height: 49.81%;
+  width: 10.15%;
+  top: 0;
+  right: 89.85%;
+  bottom: 50.19%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.min-16-servings-group {
+  position: absolute;
+  top: 9.29px;
+  left: 36px;
+  width: 197px;
+  height: 26.7px;
+  display: none;
+}
+.mingcutetime-fill,
+.mingcutetime-fill-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 15.9px;
+}
+.mingcutetime-fill-wrapper {
+  top: 1172.22px;
+  left: 200px;
+  text-align: center;
+  font-size: var(--h7-16px-paragraph-text-size);
+  color: var(--gray-paragraph);
+}
+
+.home-page-light-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 2900px;
+}
+.main-page,
+.main-page-inner {
+  position: sticky;
+  height: 2900px;
+}
+.main-page {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--h6-20-size);
+  color: var(--black);
+  font-family: var(--h5-25);
+}

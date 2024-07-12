@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h7-16px-paragraph-text: "Josefin Sans";
+  --font-jua: Jua;
+
+  /* font sizes */
+  --h7-16px-paragraph-text-size: 16px;
+  --font-size-6xl: 25px;
+  --h6-20-size: 20px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-77xl: 96px;
+  --font-size-29xl: 48px;
+  --font-size-10xl: 29px;
+
+  /* Colors */
+  --white: #fff;
+  --color-darkred: #870000;
+  --color-black: #000;
+  --color-firebrick-100: #c01f28;
+  --color-firebrick-200: #bc1e27;
+  --black: #232233;
+
+  /* Gaps */
+  --gap-16xl: 35px;
+  --gap-mid: 17px;
+  --gap-base: 16px;
+  --gap-lg: 18px;
+  --gap-14xl: 33px;
+  --gap-xl: 20px;
+  --gap-2xs: 11px;
+  --gap-6xl: 25px;
+  --gap-19xl: 38px;
+  --gap-lgi: 19px;
+
+  /* Paddings */
+  --padding-3xl: 22px;
+  --padding-xl: 20px;
+  --padding-lg: 18px;
+  --padding-5xl: 24px;
+  --padding-10xs: 3px;
+  --padding-mid: 17px;
+  --padding-2xs: 11px;
+  --padding-sm: 14px;
+  --padding-12xs: 1px;
+  --padding-2xl: 21px;
+  --padding-xs: 12px;
+  --padding-6xl: 25px;
+  --padding-7xs: 6px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --effect-1: 0px 1px 10px rgba(0, 0, 0, 0.1);
+}

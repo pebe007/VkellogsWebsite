@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h7-16px-paragraph-text: "Josefin Sans";
+  --font-kanit: Kanit;
+  --font-klee-one: "Klee One";
+  --font-karla: Karla;
+  --font-katibeh: Katibeh;
+
+  /* font sizes */
+  --h7-16px-paragraph-text-size: 16px;
+  --h5-25-size: 25px;
+  --h6-20-size: 20px;
+  --font-size-10xl: 29px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+  --font-size-7xl: 26px;
+  --h2-4883-size: 48.8px;
+
+  /* Colors */
+  --white: #fff;
+  --color-firebrick-100: #c01f28;
+  --color-firebrick-200: #bc1e27;
+  --color-firebrick-300: #b11f29;
+  --color-firebrick-400: #ac1e28;
+  --color-black: #000;
+  --color-gainsboro: rgba(217, 217, 217, 0.6);
+  --black: #232233;
+  --color-gray-100: #060606;
+
+  /* Gaps */
+  --gap-14xl: 33px;
+  --gap-base: 16px;
+  --gap-mid: 17px;
+  --gap-lg: 18px;
+  --gap-47xl: 66px;
+  --gap-xl: 20px;
+  --gap-2xs: 11px;
+  --gap-19xl: 38px;
+  --gap-lgi: 19px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-lg: 18px;
+  --padding-11xs: 2px;
+  --padding-2xs: 11px;
+  --padding-2xl: 21px;
+  --padding-3xl: 22px;
+  --padding-6xs: 7px;
+  --padding-3xs: 10px;
+  --padding-10xs: 3px;
+  --padding-lgi: 19px;
+  --padding-27xl: 46px;
+  --padding-12xs: 1px;
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --effect-1: 0px 1px 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h5-25: "Josefin Sans";
+  --font-lobster-two: "Lobster Two";
+
+  /* font sizes */
+  --h7-16px-paragraph-text-size: 16px;
+  --h5-25-size: 25px;
+  --h6-20-size: 20px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --white: #fff;
+  --gray-paragraph: #6c6c72;
+  --black: #232233;
+  --color-firebrick-100: #c01f28;
+  --color-firebrick-200: #bc1e27;
+  --color-firebrick-300: #b11f29;
+  --color-darkred: #870000;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --effect-2: 0px 10px 100px rgba(0, 0, 0, 0.24);
+  --effect-1: 0px 1px 10px rgba(0, 0, 0, 0.1);
+}
